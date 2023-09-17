@@ -3,5 +3,5 @@
 class Engineer {
 
     // error is strict
-    tasks?: string[]
+    tasks: string[] = []
 }

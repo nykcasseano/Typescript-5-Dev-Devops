@@ -14,7 +14,7 @@ type Employee = {
 const JohnSalary: Salary = {
     amount: 60000,
     currency: 'USD',
-    yearlyBonus: 10
+   // yearlyBonus: 10
 }
 
 const john: Employee = {
